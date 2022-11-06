@@ -5,7 +5,7 @@ cls
 echo hello this is my story
 pause
 cls
-echo i am sam. i am currently 9 years old
+echo i am sam.
 pause
 cls
 echo i am siting on my brother bed 
