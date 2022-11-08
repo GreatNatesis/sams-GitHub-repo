@@ -5,6 +5,7 @@ cls
 echo cat [gives you a cat]
 echo hello [hello]
 echo story [story]
+echo sus [???]
 
 
 
@@ -30,7 +31,12 @@ goto start
 
 
 
-
+:sus
+cls
+start https://www.youtube.com/watch?v=dQw4w9WgXcQ
+pause
+cls
+goto start
 
 
 
